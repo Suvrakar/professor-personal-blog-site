@@ -1,0 +1,58 @@
+.text{
+    text-align: justify!important;
+}
+
+.Appbar{
+    background-color: rgb(110, 14, 14)!important;
+}
+
+
+.marginTop{
+    margin-top: 30px;
+}
+
+.superBack{
+    background-image: url("../../BUETB.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
+.propic{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 30px;
+}
+
+.propic img{
+    border-radius: 50%;
+    /* border:1px solid black; */
+    /* padding: 4px; */
+    box-shadow: 0px 10px 15px black;
+
+
+}
+
+.colorNav{
+    background-color: rgb(110, 14, 14)!important;
+    border: 1px solid white;
+
+}
+
+.font{
+    color:  rgb(226, 226, 226)!important;
+    font-size: large;
+}
+
+.colorNav:hover{
+    background-color: rgb(226, 226, 226)!important;
+}
+.colorNav a:hover{
+    color: black;
+}
+.colorNav a{
+    text-decoration: none;
+    color: white;
+
+}
