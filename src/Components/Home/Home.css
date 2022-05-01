@@ -1,11 +1,22 @@
-.containerText{
-    margin-left: 50vh;
+.containerText {
+    padding-left: 5vh;
     padding-right: 20px;
+    width: 60%;
 }
 
 @media screen and (max-width:600px) {
-    .containerText{
+    .containerText {
         margin-left: 0vh;
         padding: 15px;
+        width: 100%;
+
+    }
+}
+
+@media screen and (max-height:560px) {
+    .containerText {
+        padding-left: 25vh;
+        width: 70vw;
+
     }
 }

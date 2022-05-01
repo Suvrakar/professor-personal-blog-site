@@ -13,14 +13,22 @@ import Pub from './Components/Publications/Pub';
 function App() {
   return (
     <div className="">
-      <SideNav></SideNav>
-      <HashRouter>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/research" component={Research} />
-        <Route exact path="/researchgroup" component={RGroup} />
-        <Route exact path="/publication" component={Pub} />
-      </HashRouter>
+      <div>
+        <SideNav></SideNav>
+      </div>
+      <div>
+        <HashRouter>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/research" component={Research} />
+          <Route exact path="/researchgroup" component={RGroup} />
+          <Route exact path="/publication" component={Pub} />
+        </HashRouter>
+      </div>
+      <div>
+        {/* <Footer /> */}
+      </div>
+
     </div>
   );
 }
