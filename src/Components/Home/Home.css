@@ -1,7 +1,7 @@
 .containerText {
-    padding-left: 5vh;
-    padding-right: 20px;
-    width: 60%;
+    padding-left: 1vw;
+    padding-right: 10vw;
+    /* width: 100%; */
 }
 
 @media screen and (max-width:600px) {
@@ -15,8 +15,8 @@
 
 @media screen and (max-height:560px) {
     .containerText {
-        padding-left: 25vh;
-        width: 70vw;
+        padding-left: 20vh;
+        width: 100%;
 
     }
 }

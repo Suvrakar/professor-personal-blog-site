@@ -2,6 +2,11 @@
     text-align: justify!important;
 }
 
+.flexing{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .Appbar{
     background-color: rgb(110, 14, 14)!important;
 }
@@ -56,4 +61,16 @@
     text-decoration: none;
     color: white;
 
+}
+
+@media screen and (max-width:600px) {
+    .buetLogo img {
+        width: 30%;
+    }
+}
+
+@media screen and (max-height:560px) {
+    .buetLogo img {
+        width: 40%;
+    }
 }

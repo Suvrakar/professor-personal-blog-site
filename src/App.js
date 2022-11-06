@@ -9,6 +9,8 @@ import Home from './Components/Home/Home';
 import Research from './Components/Research/Research';
 import RGroup from './Components/Research Group/RGroup';
 import Pub from './Components/Publications/Pub';
+import Awards from './Components/Awards/Awards';
+import Contact from './Components/Contact/Contact';
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
           <Route exact path="/research" component={Research} />
           <Route exact path="/researchgroup" component={RGroup} />
           <Route exact path="/publication" component={Pub} />
+          <Route exact path="/awards" component={Awards} />
+          <Route exact path="/contact" component={Contact} />
         </HashRouter>
       </div>
       <div>

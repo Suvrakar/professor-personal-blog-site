@@ -22,11 +22,15 @@ import "./SideNav.css"
 import { FaHome } from 'react-icons/fa';
 import { BiGroup } from 'react-icons/bi';
 import { FaRegNewspaper } from 'react-icons/fa';
+import { BiImage } from 'react-icons/bi';
+import { FaAward } from 'react-icons/fa';
 import { GiCharacter } from 'react-icons/gi';
 import { GiMaterialsScience } from 'react-icons/gi';
 import { FiMail } from 'react-icons/fi';
 import { FaResearchgate } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
+import { RiContactsFill } from 'react-icons/ri';
+
 import {
     BrowserRouter as Router,
     Switch,
@@ -37,6 +41,7 @@ import {
 import { useNavigate } from "react-router-dom";
 import Footer from '../Footer/Footer';
 import { fontSize } from '@mui/system';
+import buetLogoWhite from "../../buetLogoWhite.png"
 
 const drawerWidth = 300;
 
@@ -70,11 +75,11 @@ function SideNav(props) {
 
             <Divider />
             <div className="d-flex justify-content-center  p-2">
-                <a target="_blank"href="mailto:tahsina@iat.buet.ac.bd"><FiMail style={{fontSize:"30px", padding:"2px"}} /></a>
-                <a target="_blank" href="mailto:tahsina@iat.buet.ac.bd"><FaResearchgate style={{fontSize:"30px", padding:"2px"}}/></a>
-                <a target="_blank" href="https://www.linkedin.com/in/tfsanam/"><FaLinkedin style={{fontSize:"30px", padding:"2px"}}/></a>
-                <a target="_blank" href="https://scholar.google.com/citations?user=GHwoCWQAAAAJ&hl=en"><img src={scholar} style={{width:"30px", padding:"2px"}}/></a>
-                <a target="_blank" href="http://iat.buet.ac.bd/#/faculty-detial/E89DFF50-7895-4E84-9737-54F0D8089CAB"><img src={buetlogo} style={{width:"30px", padding:"2px"}}/></a>
+                <a target="_blank" href="mailto:tahsina@iat.buet.ac.bd"><FiMail style={{ fontSize: "30px", padding: "2px" }} /></a>
+                <a target="_blank" href="mailto:tahsina@iat.buet.ac.bd"><FaResearchgate style={{ fontSize: "30px", padding: "2px" }} /></a>
+                <a target="_blank" href="https://www.linkedin.com/in/tfsanam/"><FaLinkedin style={{ fontSize: "30px", padding: "2px" }} /></a>
+                <a target="_blank" href="https://scholar.google.com/citations?user=GHwoCWQAAAAJ&hl=en"><img src={scholar} style={{ width: "30px", padding: "2px" }} /></a>
+                <a target="_blank" href="http://iat.buet.ac.bd/#/faculty-detial/E89DFF50-7895-4E84-9737-54F0D8089CAB"><img src={buetlogo} style={{ width: "30px", padding: "2px" }} /></a>
             </div>
             <Divider />
             <List>
@@ -136,7 +141,7 @@ function SideNav(props) {
                     <a href="#/awards">
                         <ListItem button>
                             <ListItemIcon>
-                                <FaRegNewspaper className='font' />
+                                <FaAward className='font' />
                             </ListItemIcon>
                             <ListItemText primary="Awards & Honors" />
                         </ListItem>
@@ -146,7 +151,7 @@ function SideNav(props) {
                     <a href="#/gallery">
                         <ListItem button>
                             <ListItemIcon>
-                                <FaRegNewspaper className='font' />
+                                <BiImage className='font' />
                             </ListItemIcon>
                             <ListItemText primary="Gallery" />
                         </ListItem>
@@ -156,7 +161,7 @@ function SideNav(props) {
                     <a href="#/contact">
                         <ListItem button>
                             <ListItemIcon>
-                                <FaRegNewspaper className='font' />
+                                <RiContactsFill className='font' />
                             </ListItemIcon>
                             <ListItemText primary="Contact" />
                         </ListItem>
@@ -207,9 +212,20 @@ function SideNav(props) {
                     >
                         <MenuIcon />
                     </IconButton>
-                    <Typography variant="h6" noWrap component="div">
-                        Dr. Tahsina Farah Sanam
-                    </Typography>
+                    <div className='flexing'>
+                        <div className='buetLogo'>
+                            <img src={buetLogoWhite} alt="BUET" style={{padding:"5px", width:"50px"}} ></img>
+                        </div>
+
+                        <div>
+                            <Typography variant="h6" noWrap component="div">
+                                <p style={{padding:"7px"}}>Dr. Tahsina Farah Sanam</p>
+                            </Typography>
+                        </div>
+
+                    </div>
+
+
                 </Toolbar>
             </AppBar>
             <Box
