@@ -219,7 +219,7 @@ function SideNav(props) {
 
                         <div>
                             <Typography variant="h6" noWrap component="div">
-                                <p style={{padding:"7px"}}>Dr. Tahsina Farah Sanam</p>
+                                <p style={{paddingTop:"8px"}}>Dr. Tahsina Farah Sanam</p>
                             </Typography>
                         </div>
 
