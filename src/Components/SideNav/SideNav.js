@@ -64,7 +64,7 @@ function SideNav(props) {
 
             <div className='text-center mt-2'>
                 <h5>Dr. Tahsina Farah Sanam</h5>
-                <p style={{ fontSize: "14px" }}>Assistant Professor
+                <p style={{ fontSize: "14px" }}>Associate Professor
                     <br></br>
                     IAT, BUET
                 </p>

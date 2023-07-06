@@ -25,7 +25,7 @@ export default function Contact() {
 
                 Dr. Tahsina Farah Sanam
                 <br></br>
-                Assistant Professor
+                Associate Professor
                 <br></br>
 
                 Institute of Appropriate Technology, BUET
