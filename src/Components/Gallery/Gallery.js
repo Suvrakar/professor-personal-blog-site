@@ -7,9 +7,9 @@ import "./Gallery.css"; // Import your custom CSS for the gallery
 const photos = [
   {
     original:
-      "https://lh6.googleusercontent.com/SVrExE8A29dUFFMhso1uJ2fQDGVclyVNZJi1Zi7VWFU3x-eOOu9xMOf1NAjXZxw9XRWwDe2w6u91YiL4Yrkomv4vVKAV23vMg4EYeMIJO_d7E8MnTtatjMkl3QOE_MfHhA=w1280",
+      "https://lh4.googleusercontent.com/4-I3sVp4rPydGt8-R4J1LiBnq7r1VX7AR4lNl6FYv2zpA10ew6E_Tx5xyIl3CFQ8xJSzWnZJp7Kes6DqEHCxGoHvSbjpu4l3UKzYT8h3CiupCXJWHBGHPTwSkVKI7JHlgA=w1280",
     thumbnail:
-      "https://lh6.googleusercontent.com/SVrExE8A29dUFFMhso1uJ2fQDGVclyVNZJi1Zi7VWFU3x-eOOu9xMOf1NAjXZxw9XRWwDe2w6u91YiL4Yrkomv4vVKAV23vMg4EYeMIJO_d7E8MnTtatjMkl3QOE_MfHhA=w1280",
+      "https://lh4.googleusercontent.com/4-I3sVp4rPydGt8-R4J1LiBnq7r1VX7AR4lNl6FYv2zpA10ew6E_Tx5xyIl3CFQ8xJSzWnZJp7Kes6DqEHCxGoHvSbjpu4l3UKzYT8h3CiupCXJWHBGHPTwSkVKI7JHlgA=w1280",
     originalAlt: "Image 1",
     thumbnailAlt: "Thumbnail 1",
     description:

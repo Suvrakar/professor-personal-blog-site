@@ -76,7 +76,7 @@ function SideNav(props) {
             <Divider />
             <div className="d-flex justify-content-center  p-2">
                 <a target="_blank" href="mailto:tahsina@iat.buet.ac.bd"><FiMail style={{ fontSize: "30px", padding: "2px" }} /></a>
-                <a target="_blank" href="mailto:tahsina@iat.buet.ac.bd"><FaResearchgate style={{ fontSize: "30px", padding: "2px" }} /></a>
+                <a target="_blank" href="https://www.researchgate.net/profile/Tahsina-Sanam-2"><FaResearchgate style={{ fontSize: "30px", padding: "2px" }} /></a>
                 <a target="_blank" href="https://www.linkedin.com/in/tfsanam/"><FaLinkedin style={{ fontSize: "30px", padding: "2px" }} /></a>
                 <a target="_blank" href="https://scholar.google.com/citations?user=GHwoCWQAAAAJ&hl=en"><img src={scholar} style={{ width: "30px", padding: "2px" }} /></a>
                 <a target="_blank" href="http://iat.buet.ac.bd/#/faculty-detial/E89DFF50-7895-4E84-9737-54F0D8089CAB"><img src={buetlogo} style={{ width: "30px", padding: "2px" }} /></a>

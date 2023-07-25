@@ -1,41 +1,34 @@
-import * as React from 'react';
-import PropTypes from 'prop-types';
-import AppBar from '@mui/material/AppBar';
-import Box from '@mui/material/Box';
-import CssBaseline from '@mui/material/CssBaseline';
-import Divider from '@mui/material/Divider';
-import Drawer from '@mui/material/Drawer';
-import IconButton from '@mui/material/IconButton';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
-import List from '@mui/material/List';
-import ListItem from '@mui/material/ListItem';
-import ListItemIcon from '@mui/material/ListItemIcon';
-import ListItemText from '@mui/material/ListItemText';
-import MailIcon from '@mui/icons-material/Mail';
-import MenuIcon from '@mui/icons-material/Menu';
-import Toolbar from '@mui/material/Toolbar';
-import Typography from '@mui/material/Typography';
-import propic from "../../Tahsina.jpg"
-import "./Contact.css"
+import * as React from "react";
+import Typography from "@mui/material/Typography";
+import "./Contact.css";
+import GoogleMaps from "./Map";
+import { MdEmail } from "react-icons/md";
+import { FaAddressBook } from "react-icons/fa";
+import { HiOfficeBuilding } from "react-icons/hi";
+import { FaGraduationCap } from "react-icons/fa";
 
 export default function Contact() {
-    return (
-        <div className='containerText'>
-            <Typography paragraph>
-
-                Dr. Tahsina Farah Sanam
-                <br></br>
-                Associate Professor
-                <br></br>
-
-                Institute of Appropriate Technology, BUET
-                <br></br>
-
-                Dhaka-1000, Bangladesh
-                <br></br>
-
-                Email: tahsina@iat.buet.ac.bd
-            </Typography>
-        </div>
-    )
+  return (
+    <div className="containerText">
+      <Typography paragraph sx={{ textAlign: "Left" }}>
+        <span style={{ fontWeight: "bold", marginRight: "10px" }}>Dr. Tahsina Farah Sanam</span>
+        <br></br>
+        <FaGraduationCap style={{ marginRight: "10px" }} />
+        Associate Professor
+        <br></br>
+        <HiOfficeBuilding style={{ marginRight: "10px" }} />
+        Institute of Appropriate Technology, BUET
+        <br></br>
+        <FaAddressBook style={{ marginRight: "10px" }} />
+        Dhaka-1000, Bangladesh
+        <br></br>
+        <MdEmail style={{ marginRight: "10px" }} /> tahsina@iat.buet.ac.bd
+      </Typography>
+      <br />
+      <br />
+      <GoogleMaps />
+      <br />
+      <br />
+    </div>
+  );
 }
