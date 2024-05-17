@@ -1,0 +1,217 @@
+{
+    "patent": [
+      {
+        "authors": "P Monogioudis, T. F. Sanam, D Wang",
+        "title": "Autonomous localization in wireless networks",
+        "patent_number": "US20190182614 A1",
+        "date": "06/13/2019",
+        "application_number": "US Patent App. 15/837,621"
+      }
+    ],
+
+
+    "journals": {
+
+      "underReview": [
+        {
+          "authors": "S. A. Suha, and T.F. Sanam",
+          "title": "Sustainability Assessment of Artificial Intelligence in Healthcare Decision Making",
+          "details": "Submitted for review in Health Care Management Science, May 2022"
+        },
+        {
+          "authors": "T. F. Sanam and H. Godrich",
+          "title": "CoMuTe: A Convolutional Neural Network Based Device Free Multiple Target Localization Using CSI",
+          "details": "Under review in IEEE Transaction in Human Machine Systems, March, 2021"
+        }
+      ],
+
+      "published": [
+        {
+          "authors": "I. A. Showmik, T.F. Sanam, H. Imtiaz",
+          "title": "Human Activity Recognition from Wi-Fi CSI data using Principal Component-based Wavelet CNN",
+          "journal": "Digital Signal Processing (Elsevier-DSP)",
+          "volume": "Volume 138, 2023, 104056",
+          "issn": "ISSN 1051-2004",
+          "doi": "https://doi.org/10.1016/j.dsp.2023.104056"
+        },
+        {
+          "authors": "S. A. Suha, and T.F. Sanam",
+          "title": "A Deep Convolutional Neural Network-Based Approach for Detecting Burn Severity from Skin Burn Images",
+          "journal": "Machine Learning with Applications (MLWA-Elsevier)",
+          "date": "June 2022"
+        },
+        {
+          "authors": "S. A. Suha, M. Akhtaruzzaman and T.F. Sanam",
+          "title": "A Fuzzy Model to Predict Intravenous Fluid Resuscitation Rate for Burn Patients",
+          "journal": "Healthcare Analytics (Elsevier)",
+          "year": "2022",
+          "id": "100070",
+          "issn": "ISSN 2772-4425",
+          "doi": "https://doi.org/10.1016/j.health.2022.100070"
+        },
+        {
+          "authors": "T. F. Sanam and H. Godrich",
+          "title": "A Multi-View Discriminant Learning Approach for Indoor Localization Using Amplitude and Phase Features of CSI",
+          "journal": "IEEE Access",
+          "details": "Impact factor: 4.095, Acceptance Rate: 50%",
+          "doi": "10.1109/ACCESS.2020.2982277",
+          "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043538&isnumber=6514899"
+        },
+        {
+          "authors": "T. F. Sanam and C. Shahnaz",
+          "title": "A Semisoft Thresholding Method based on Teager Energy Operation on Wavelet Packet Coefficients for Enhancing Noisy Speech",
+          "journal": "EURASIP Journal of Audio, Speech and Music Processing",
+          "publisher": "Springer Open",
+          "date": "October, 2013",
+          "doi": "doi.org/10.1186/1687-4722-2013-25",
+          "url": "http://link.springer.com/article/10.1186%2F1687-4722-2013-25"
+        },
+        {
+          "authors": "T. F. Sanam and C. Shahnaz",
+          "title": "Noisy speech enhancement based on an adaptive threshold and a modified hard thresholding function in wavelet packet domain",
+          "journal": "Digital Signal Processing, Elsevier",
+          "volume": "Volume 23, Issue 3, May 2013, Pages 941-951",
+          "doi": "10.1016/j.dsp.2012.12.001",
+          "url": "http://www.sciencedirect.com/science/article/pii/S1051200412002825"
+        },
+        {
+          "authors": "T. F. Sanam and C. Shahnaz",
+          "title": "Enhancement of Noisy Speech Based on a Custom Thresholding Function With a Statistically Determined Threshold",
+          "journal": "International Journal of Speech Technology, Springer",
+          "date": "April, 2012",
+          "doi": "10.1007/s10772-012-9144-6",
+          "url": "http://dx.doi.org/10.1007/s10772-012-9144-6"
+        },
+        {
+          "authors": "T. F. Sanam and C. Shahnaz",
+          "title": "Teager Energy Operation on Wavelet Packet Coefficients for Enhancing Noisy Speech Using a Hard Thresholding Function",
+          "journal": "Signal Processing: An International Journal, CSC Press Journal",
+          "volume": "vol 6, issue 2, pp 22-43",
+          "date": "April, 2012",
+          "url": "http://www.cscjournals.org/csc/manuscriptinfo.php?ManuscriptCode=76.73.66.67.38.42.48.49.105&JCode=SPIJ&EJCode=78.75.68.69.103&Volume=45.107&Issue=47.101"
+        },
+        {
+          "authors": "T. F. Sanam and C. Shahnaz",
+          "title": "An Approach for Noisy Speech Enhancement through soft thresholding function by Employing the Teager Energy Operation on Wavelet Packet",
+          "journal": "International Journal of Scientific & Technology Research",
+          "volume": "vol 1, Issue 2",
+          "date": "Mar 2012",
+          "url": "http://www.ijstr.org/research-paper-publishing.php?month=march2012"
+        }
+      ]
+    },
+
+
+    "proceedings": [
+      {
+        "authors": "S. A. Suha and T.F. Sanam",
+        "title": "A Machine Learning Approach for Predicting Patient's Length of Hospital Stay with Random Forest Regression",
+        "conference": "IEEE Region 10 Symposium (TENSYMP 2022)",
+        "location": "Mumbai, India",
+        "date": "July 2022"
+      },
+      {
+        "authors": "S.A. Suha and T.F. Sanam",
+        "title": "Challenges and Prospects of Adopting Industry 4.0 and Assessing the Role of Intelligent Robotics",
+        "conference": "IEEE World Conference on Applied Intelligence and Computing (AIC 2022)",
+        "location": "Sonbhadra, India",
+        "date": "June 2022"
+      },
+      {
+        "authors": "S.A. Suha, T.F. Sanam and M.I. Jahan",
+        "title": "National Policies & their Significance in Bangladesh for the Adoption of Industry 4.0",
+        "conference": "IEEE World Conference on Applied Intelligence and Computing (AIC 2022)",
+        "location": "Sonbhadra, India",
+        "date": "June 2022"
+      },
+      {
+        "authors": "T. F. Sanam and H. Godrich",
+        "title": "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals",
+        "conference": "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "location": "Brighton, United Kingdom",
+        "date": "2019",
+        "doi": "10.1109/ICASSP.2019.8683316"
+      },
+      {
+        "authors": "T. F. Sanam and H. Godrich",
+        "title": "Device Free Indoor Localization Using Discriminant Features of CSI A Canonical Correlation Paradigm",
+        "conference": "ACSSC 2018 - 52nd Asilomar Conference on Signals, Systems, and Computers",
+        "location": "Pacific Grove, CA, USA",
+        "date": "2018",
+        "doi": "10.1109/ACSSC.2018.8645524"
+      },
+      {
+        "authors": "T. F. Sanam and H. Godrich",
+        "title": "An Improved CSI Based Device Free Indoor Localization Using Machine Learning Based Classification Approach",
+        "conference": "EUSIPCO 2018 - 26th European Signal Processing Conference",
+        "location": "Roma, Italy",
+        "date": "2018",
+        "doi": "10.23919/EUSIPCO.2018.8553394"
+      },
+      {
+        "authors": "T. F. Sanam and H. Godrich",
+        "title": "Device Free Indoor Localization Using Channel State Information",
+        "conference": "2018 ACM Richard Tapia Celebration of Diversity in Computing Conference (Tapia 2018)",
+        "date": "2018"
+      },
+      {
+        "authors": "Sanam, T.F.; Hoque, M.M.",
+        "title": "Technology Assessment of Fourth Generation technology for wireless communication in Bangladesh with Analytical Hierarchical Process",
+        "conference": "Informatics, Electronics & Vision (ICIEV), 2014 International Conference on",
+        "date": "23-24 May 2014",
+        "doi": "10.1109/ICIEV.2014.6850808",
+        "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6850808&isnumber=6850678"
+      },
+      {
+        "authors": "Imtiaz, Hafiz; Sanam, Tahsina Farah",
+        "title": "Frequency domain feature extraction for power quality disturbance classification",
+        "conference": "Informatics, Electronics & Vision (ICIEV), 2013 International Conference on",
+        "date": "17-18 May, 2013",
+        "doi": "10.1109/ICIEV.2013.6572701",
+        "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6572701&isnumber=6572523"
+      },
+      {
+        "authors": "Sanam, Tahsina Farah; Imtiaz, Hafiz",
+        "title": "A DCT-based noisy speech enhancement method using Teager energy operator",
+        "conference": "Knowledge and Smart Technology (KST), 2013 5th International Conference on",
+        "date": "Jan. 31 2013-Feb. 1 2013",
+        "doi": "10.1109/KST.2013.6512780",
+        "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6512780&queryText%3Dtahsina"
+      },
+      {
+        "authors": "Sanam, T.F.; Shahnaz, C.",
+        "title": "A combination of semisoft and μ-law thresholding functions for enhancing noisy speech in wavelet packet domain",
+        "conference": "Electrical & Computer Engineering (ICECE), 2012 7th International Conference on",
+        "date": "20-22 Dec. 2012",
+        "doi": "10.1109/ICECE.2012.6471692",
+        "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6471692&isnumber=6471460"
+      },
+      {
+        "authors": "Sanam, Tahsina Farah and Imtiaz, Hafiz",
+        "title": "A novel approach of automated heart rate calculation in ECG Signal through Wave Boundaries Detection",
+        "conference": "IEEE International Conference on Informatics, Electronics & Vision (ICIEV)",
+        "date": "18-19 May 2012",
+        "doi": "10.1109/ICIEV.2012.6317532",
+        "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6317532&isnumber=6317321"
+      },
+      {
+        "authors": "Sanam, T.F.; Shahnaz, C.",
+        "title": "An approach for noisy speech enhancement by employing the teager energy operation on wavelet packet",
+        "conference": "TENCON 2011 - 2011 IEEE Region 10 Conference",
+        "date": "21-24 Nov. 2011",
+        "doi": "10.1109/TENCON.2011.6129289",
+        "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6129289&isnumber=6128995"
+      }
+    ],
+
+    
+    "demosPosters": [
+      {
+        "authors": "T. F. Sanam and H. Godrich",
+        "title": "Device Free Indoor Localization Using Channel State Information",
+        "conference": "2018 ACM Richard Tapia Celebration of Diversity in Computing Conference (Tapia 2018)",
+        "date": "2018"
+      }
+    ]
+  }
+  

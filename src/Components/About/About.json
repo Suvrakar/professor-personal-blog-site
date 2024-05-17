@@ -1,0 +1,119 @@
+{
+    "education": [
+      {
+        "degree": "PhD",
+        "year": "May 2020",
+        "department": "Department of ECE",
+        "institution": "Rutgers, The State University of New Jersey, USA"
+      },
+      {
+        "degree": "Master of Science in Electrical and Electronic Engineering",
+        "year": "2012",
+        "department": "Department of EEE",
+        "institution": "Bangladesh University of Engineering and Technology (BUET)"
+      },
+      {
+        "degree": "Bachelor of Science in Electrical and Electronic Engineering",
+        "year": "2009",
+        "department": "Department of EEE",
+        "institution": "Bangladesh University of Engineering and Technology (BUET)"
+      },
+      {
+        "degree": "Higher Secondary Certificate (HSC)",
+        "year": "2003",
+        "institution": "Viqarunnisa Noon College, Dhaka",
+        "details": "(one of the only 20 students in the whole country who got GPA 5.00 out of 5.00 in 2003)"
+      }
+    ],
+    "jobExperience": [
+      {
+        "title": "Associate Professor",
+        "period": "June 2023 - Present",
+        "department": "Institute of Appropriate Technology (IAT)",
+        "institution": "Bangladesh University of Engineering and Technology (BUET)"
+      },
+      {
+        "title": "Assistant Professor",
+        "period": "August 2020 - May 2022",
+        "department": "Institute of Appropriate Technology (IAT)",
+        "institution": "Bangladesh University of Engineering and Technology (BUET)"
+      },
+      {
+        "title": "Teaching Assistant",
+        "period": "2015 - Present",
+        "department": "Department of ECE",
+        "institution": "Rutgers, The State University of New Jersey"
+      },
+      {
+        "title": "Summer Intern",
+        "period": "2018",
+        "institution": "Nokia Bell Lab, Murray Hill, New Jersey"
+      },
+      {
+        "title": "Assistant Professor",
+        "period": "February 2013 - August 2014",
+        "department": "Institute of Appropriate Technology (IAT)",
+        "institution": "Bangladesh University of Engineering and Technology (BUET)"
+      },
+      {
+        "title": "Lecturer",
+        "period": "October 2011 - February 2013",
+        "department": "Institute of Appropriate Technology (IAT)",
+        "institution": "Bangladesh University of Engineering & Technology (BUET)"
+      },
+      {
+        "title": "Lecturer",
+        "period": "September 2009 - October 2011",
+        "department": "Dept of EEE",
+        "institution": "Daffodil International University, Dhaka"
+      }
+    ],
+    "professionalAffiliation": [
+      {
+        "membership": "Member, IEEE",
+        "period": "2015-Present"
+      },
+      {
+        "membership": "Member, ACM",
+        "period": "2017-Present"
+      }
+    ],
+    "professionalServices": [
+      {
+        "service": "Newsletter Editor, IEEE BDS ExCom 2022-2023"
+      },
+      {
+        "service": "Newsletter Editor, IEEE BDS ExCom 2021-2022"
+      },
+      {
+        "service": "AI Program Committee Member, Virtual GHC 2021, USA"
+      },
+      {
+        "service": "Secretary, IEEE SPS Bangladesh Chapter 2021"
+      },
+      {
+        "service": "Central Committee Member, International Robot Olympiad, 2021"
+      },
+      {
+        "service": "Organizing Member, IEEE ICTP, 2021"
+      }
+    ],
+    "leadershipExperience": [
+      {
+        "role": "President",
+        "period": "2019-2020",
+        "organization": "Society of Women Engineers, Graduate Executive Board, Rutgers University"
+      },
+      {
+        "role": "Vice President",
+        "period": "2017-2019",
+        "organization": "Society of Women Engineers, Graduate Executive Board, Rutgers University"
+      },
+      {
+        "role": "Vice Chair",
+        "period": "2010-2012",
+        "organization": "IEEE Women in Engineering, Bangladesh Section"
+      }
+    ]
+  }
+  

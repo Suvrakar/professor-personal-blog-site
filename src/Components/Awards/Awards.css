@@ -9,3 +9,14 @@
         padding: 15px;
     }
 }
+
+/* Awards.css */
+
+.ordered-list {
+    margin-top: 10px; /* Adjust this value as needed */
+  }
+  
+  .ordered-list li {
+    margin-bottom: 10px; /* Adjust this value as needed */
+  }
+  

@@ -7,16 +7,6 @@ import "./Gallery.css"; // Import your custom CSS for the gallery
 const photos = [
   {
     original:
-      "https://lh4.googleusercontent.com/4-I3sVp4rPydGt8-R4J1LiBnq7r1VX7AR4lNl6FYv2zpA10ew6E_Tx5xyIl3CFQ8xJSzWnZJp7Kes6DqEHCxGoHvSbjpu4l3UKzYT8h3CiupCXJWHBGHPTwSkVKI7JHlgA=w1280",
-    thumbnail:
-      "https://lh4.googleusercontent.com/4-I3sVp4rPydGt8-R4J1LiBnq7r1VX7AR4lNl6FYv2zpA10ew6E_Tx5xyIl3CFQ8xJSzWnZJp7Kes6DqEHCxGoHvSbjpu4l3UKzYT8h3CiupCXJWHBGHPTwSkVKI7JHlgA=w1280",
-    originalAlt: "Image 1",
-    thumbnailAlt: "Thumbnail 1",
-    description:
-      "I received  Forum 86 Research Excellence Award 2022 in Early Researcher Category in recognition of my outstanding academic achievement in the field of ‘Wireless Communications’. ",
-  },
-  {
-    original:
       "https://www.ece.rutgers.edu/sites/default/files/styles/image-large/public/IMG_4037.JPG?itok=9h09SkX7",
     thumbnail:
       "https://www.ece.rutgers.edu/sites/default/files/styles/image-large/public/IMG_4037.JPG?itok=9h09SkX7",
