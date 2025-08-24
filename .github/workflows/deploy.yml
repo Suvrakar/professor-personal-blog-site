@@ -3,8 +3,8 @@ name: Deploy React App to cPanel
 on:
   push:
     branches:
-      - main   # 👈 runs whenever you push to "main"
-  workflow_dispatch:  # 👈 allows manual trigger from GitHub Actions tab
+      - main   # runs whenever you push to "main"
+  workflow_dispatch:  # allows manual trigger from GitHub Actions tab
 
 jobs:
   build-and-deploy:
@@ -25,11 +25,10 @@ jobs:
           npm run build
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: lecturersite.buet.ac.bd
-          port: 21
           username: ${{ secrets.CPANEL_USER }}
           password: ${{ secrets.CPANEL_PASS }}
-          local-dir: ./build
           server-dir: /public_html/
+          local-dir: ./build
