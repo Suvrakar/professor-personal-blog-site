@@ -22,6 +22,11 @@
           "authors": "T. F. Sanam and H. Godrich",
           "title": "CoMuTe: A Convolutional Neural Network Based Device Free Multiple Target Localization Using CSI",
           "details": "Under review in IEEE Transaction in Human Machine Systems, March, 2021"
+        },
+                {
+          "authors":"test",
+          "title": "test",
+          "details": "test"
         }
       ],
 
