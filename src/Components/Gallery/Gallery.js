@@ -7,9 +7,9 @@ import "./Gallery.css"; // Import your custom CSS for the gallery
 const photos = [
   {
     original:
-      "https://ibb.co.com/v6dj1sxD",
+      "https://i.ibb.co.com/FLYD6sbn/1714451741-e6ea0923ded91cb12f3c55e94af7b286.jpg",
     thumbnail:
-      "https://ibb.co.com/v6dj1sxD",
+      "https://i.ibb.co.com/FLYD6sbn/1714451741-e6ea0923ded91cb12f3c55e94af7b286.jpg",
     originalAlt: "Image 2",
     thumbnailAlt: "Thumbnail 2",
     description: "I received the Chancellor’s Leadership Award at the New Brunswick Chancellor’s Student Leadership Gala 2019.  ",
