@@ -7,9 +7,9 @@ import "./Gallery.css"; // Import your custom CSS for the gallery
 const photos = [
   {
     original:
-      "https://www.ece.rutgers.edu/sites/default/files/styles/image-large/public/IMG_4037.JPG?itok=9h09SkX7",
+      "https://ibb.co.com/v6dj1sxD",
     thumbnail:
-      "https://www.ece.rutgers.edu/sites/default/files/styles/image-large/public/IMG_4037.JPG?itok=9h09SkX7",
+      "https://ibb.co.com/v6dj1sxD",
     originalAlt: "Image 2",
     thumbnailAlt: "Thumbnail 2",
     description: "I received the Chancellor’s Leadership Award at the New Brunswick Chancellor’s Student Leadership Gala 2019.  ",
