@@ -14,7 +14,7 @@ export default function Contact() {
         <span style={{ fontWeight: "bold", marginRight: "10px" }}>Dr. Tahsina Farah Sanam</span>
         <br></br>
         <FaGraduationCap style={{ marginRight: "10px" }} />
-        Associate Professor
+        Professor
         <br></br>
         <HiOfficeBuilding style={{ marginRight: "10px" }} />
         Institute of Appropriate Technology, BUET
