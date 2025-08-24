@@ -31,4 +31,4 @@ jobs:
           username: ${{ secrets.CPANEL_USER }}
           password: ${{ secrets.CPANEL_PASS }}
           server-dir: /public_html/
-          local-dir: ./build
+          local-dir: ./build/   # 👈 added trailing slash
