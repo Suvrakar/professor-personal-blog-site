@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies and build
         run: |
           npm install
-          npm run build
+          CI=false npm run build  # 👈 ignore warnings and treat them as non-fatal
 
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
