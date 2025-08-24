@@ -14,6 +14,15 @@ const photos = [
     thumbnailAlt: "Thumbnail 2",
     description: "I received the Chancellor’s Leadership Award at the New Brunswick Chancellor’s Student Leadership Gala 2019.  ",
   },
+    {
+    original:
+      "https://i.ibb.co.com/FLYD6sbn/1714451741-e6ea0923ded91cb12f3c55e94af7b286.jpg",
+    thumbnail:
+      "https://i.ibb.co.com/FLYD6sbn/1714451741-e6ea0923ded91cb12f3c55e94af7b286.jpg",
+    originalAlt: "Image 2",
+    thumbnailAlt: "Thumbnail 2",
+    description: "I received the Chancellor’s Leadership Award at the New Brunswick Chancellor’s Student Leadership Gala 2019.  ",
+  }
   // Add more photos as needed
 ];
 
